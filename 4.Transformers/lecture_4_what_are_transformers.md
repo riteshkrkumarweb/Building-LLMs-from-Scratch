@@ -1,4 +1,4 @@
-# Lecture 4 — What Are Transformers?
+#  What Are Transformers?
 
 ## 1. Main Idea
 
